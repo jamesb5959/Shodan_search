@@ -61,7 +61,5 @@ def search_ips(name):
         print(f"Error: {e}")
 
 # Example usage
-search_ips_in_city("Camp Pendleton", "ATAK")
-search_ips("Camp Pendleton ATAK")
-search_ips_in_city("San Diego", "ATAK")
-search_ips_in_city("Oceanside", "ATAK")
+search_ips_in_city()
+search_ips()
